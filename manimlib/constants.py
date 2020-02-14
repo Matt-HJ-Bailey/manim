@@ -193,7 +193,7 @@ PI = np.pi
 TAU = 2 * PI
 DEGREES = TAU / 360
 
-FFMPEG_BIN = "ffmpeg"
+FFMPEG_BIN = "/u/mw/newc4592/bin/ffmpeg"
 
 # Colors
 COLOR_MAP = {
